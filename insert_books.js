@@ -12,6 +12,24 @@ const collectionName = 'books';
 
 // Sample book data
 const books = [
+  { title: 'A Minute To Midnight', 
+    author: 'David Baldacci', 
+    genre: 'Fiction', 
+    published_year: 2015, 
+    price: 20, 
+    in_stock: true, 
+    pages: 300, 
+    publisher: 'Publisher'
+  },
+  { title: 'Educated', 
+    author: 'Tara Westover', 
+    genre: 'Non-Fiction', 
+    published_year: 2018, 
+    price: 25, 
+    in_stock: false, 
+    pages: 250, 
+    publisher: 'Publisher'
+  },
   {
     title: 'To Kill a Mockingbird',
     author: 'Harper Lee',
