@@ -25,7 +25,7 @@ This project uses **MongoDB** to manage book records, covering database setup, C
 ## ✅ **Submission Instructions**
 - Clone your **GitHub Classroom** repository:
   ```bash
-  git clone <your-repository-link>
+  git clone <https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-natalieosita.git>
   ```
 - Add the following files:
   - `insert_books.js` (modified if needed)
